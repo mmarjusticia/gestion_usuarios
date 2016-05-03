@@ -1,0 +1,55 @@
+@font-face {
+    font-family: 'ralewayregular';
+    src: url('fuentes/raleway-regular-webfont.eot');
+    src: url('fuentes/raleway-regular-webfont.eot?#iefix') format('embedded-opentype'), url('fuentes/raleway-regular-webfont.woff2') format('woff2'), url('fuentes/raleway-regular-webfont.woff') format('woff'), url('fuentes/raleway-regular-webfont.ttf') format('truetype'), url('fuentes/raleway-regular-webfont.svg#ralewayregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+#container{width:100%;
+        background-color:#1c1c1c;
+        color:white;
+        font-family:ralewayregular;
+        height:2000px;
+}
+#cabecera{width:100%;}
+a{color:#c0df16;}
+.relleno{width:100%;
+        background-color:#1c1c1c;
+        color:white;
+        font-family:ralewayregular;
+        height:100px;
+}
+.titulo{color:#c0df16;
+        font-size:2em;
+        text-align:center;
+        padding-bottom:2%;
+        padding-top:2%;
+}
+#zonaUsuarioN,#zonAdministrador{background-color:#424242;
+              margin:0 auto;
+                width:45%;
+                padding:3%;
+                
+}
+#send{width:80%;
+    margin-top:2%;
+    margin-bottom:2%;
+}
+#zona{margin-left:40%;
+        margin-top:2%;
+}
+th{padding:2%;}
+td{width:15%;}
+#tabla1{margin-left:4%;
+        margin-top:4%;
+}
+#perfil{div:100%;
+        text-align:center;
+}
+#zonaRegistro{width:50%;
+               
+                margin-top:10%;
+                margin-left:10%;
+                margin-bottom:3%;
+}
+
